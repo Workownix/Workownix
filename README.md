@@ -2,8 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=F4F4F4&text=workownix&desc=Agentic%20AI%20Engineer%20•%20Full%20Stack%20web%20Developer%20&fontColor=134E8E&fontAlignY=37&descAlignY=50&section=header&animation=scaleIn&reversal=true&textBg=false"/>
 </div>
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?font=Noto+Sans&size=26&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&lines=User+Experience+Visionary;Full+Stack+Web+Architect+Engineer;Building+Intelligent+AI+System;Digital+Transformation+Strategist)](https://readme-typing-svg.herokuapp.com/demo/?font=Noto+Sans&size=26&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&lines=User+Experience+Visionary;Full+Stack+Web+Architect+Engineer;Building+Intelligent+AI+System;Digital+Transformation+Strategist)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=26&pause=1000&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=User+Experience+Visionary+;Full+Stack+Web+Architect++Engineer;Building+Intelligent+AI+System;Digital+Transformation+Strategist)](https://git.io/typing-svg)
+  
 </div>
+
 
 ---
 
