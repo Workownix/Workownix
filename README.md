@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=F4F4F4&text=workownix&desc=Agentic%20AI%20Engineer%20•%20Full%20Stack%20web%20Developer%20&fontColor=134E8E&fontAlignY=37&descAlignY=50&section=header&animation=scaleIn&reversal=true&textBg=false"/>
 </div>
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Building+Modern+Digital+Solutions;Crafting+Scalable+Web+Applications;Empowering+Innovation+Through+Technology)](https://git.io/typing-svg)
-  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?font=Noto+Sans&size=26&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&lines=User+Experience+Visionary;Full+Stack+Web+Architect+Engineer;Building+Intelligent+AI+System;Digital+Transformation+Strategist)](https://readme-typing-svg.herokuapp.com/demo/?font=Noto+Sans&size=26&color=134E8E&background=FFFFFF&center=true&vCenter=true&random=true&lines=User+Experience+Visionary;Full+Stack+Web+Architect+Engineer;Building+Intelligent+AI+System;Digital+Transformation+Strategist)
 </div>
 
 ---
